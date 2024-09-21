@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> <img center="left" alt="" width="39px" style="padding-right:10px;" src="https://svgshare.com/i/1Aek.svg"/>&nbsp;  		Reichtangle
+<h1 align="center"> <img center="left" alt="" width="39px" style="padding-right:10px;" src="https://svgshare.com/i/1Aek.svg"/>Reichtangle
 
 
 **`Online Addicted (Server Maker/Coder/Bot Maker)`**
