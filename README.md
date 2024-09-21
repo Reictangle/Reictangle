@@ -1,5 +1,5 @@
 
-#  <img align="left" alt="" width="39px" style="padding-right:10px;" src="https://svgshare.com/i/1Aek.svg"/>&nbsp;  Reichtangle
+#  <img align="left" alt="" width="39px" style="padding-right:10px;" src="https://svgshare.com/i/1Aek.svg"/>&nbsp; Reichtangle
 
 
 **`Online Addicted (Server Maker/Coder/Bot Maker)`**
