@@ -2,11 +2,11 @@
 
 <h1 align="center"> <img center="left" alt="" width="39px" style="padding-right:10px;" src="https://svgshare.com/i/1Aek.svg"/>&nbsp;  		Reichtangle
 
+<div align="center">
+Online Addicted (Server Maker/Coder/Bot Maker)
 
-	Online Addicted (Server Maker/Coder/Bot Maker)
-
-<div align="center">Hello, I am Reichtangle and I make bots, Discord Servers and I code from time to time, if you are wondering for what servers I work for you can look down below. </div> 
-
+Hello, I am Reichtangle and I make bots, Discord Servers and I code from time to time, if you are wondering for what servers I work for you can look down below.
+</div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
