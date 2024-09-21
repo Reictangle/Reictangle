@@ -5,7 +5,7 @@
 
 	Online Addicted (Server Maker/Coder/Bot Maker)
 
-<div align="center">Hello, I am Reichtangle and I make bots, Discord Servers and I code from time to time, if you are wondering for what servers I work for you can look down below. 
+<div align="center">Hello, I am Reichtangle and I make bots, Discord Servers and I code from time to time, if you are wondering for what servers I work for you can look down below. </div> 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
