@@ -1,7 +1,7 @@
 
 <h1 align="center"> <img center="left" alt="" width="39px" style="padding-right:10px;" src="https://svgshare.com/i/1Aek.svg"/>&nbspReichtangle </h1>
 <h1 align="center">
-    <img center="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Contributing+to+Repositories" />
+    <img center="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Contributing+to+Repositories" />
 </h1>
 <div align="center">
 Hello, I am Reichtangle and I make bots, and Discord Servers I code from time to time, if you are wondering what tools  I use you can look down below. </div>
